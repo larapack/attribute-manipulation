@@ -68,7 +68,7 @@ Example model:
 namespace App;
 
 use Larapack\AttributeManipulation\Manipulateable;
-use Vendor\Packag\ExampleTrait;
+use Vendor\Package\ExampleTrait;
 
 class User
 {
