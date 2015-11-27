@@ -1,0 +1,12 @@
+{
+    "name": "larapack/attribute-manipulation",
+    "description": "Allows multiple traits to manipulate with the attributes of an Eloquent Model.",
+    "keywords": ["package", "laravel", "larapack"],
+    "license": "MIT",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
